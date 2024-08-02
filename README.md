@@ -11,7 +11,7 @@ Here’s a revised version incorporating the new details:
 <p>🌱 I am actively solving Data Structures and Algorithms (DSA) problems to sharpen my problem-solving skills.</p>
 <p>👯 I’m eager to collaborate on web development projects and contribute to innovative solutions.</p>
 <p>💬 Feel free to ask me about web development and web technologies—I’m always happy to share insights and discuss ideas.</p>
-<p>📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedantdabhade14@gmail.com)](mailto:vedantdabhade14@gmail.com)</p>
+<p>📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:arjyo77@gmail.com)</p>
 <p>⚡ Fun fact: I love going to the gym!</p>
   </div>
 </div>
