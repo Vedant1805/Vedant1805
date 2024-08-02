@@ -1,13 +1,18 @@
 <img src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1722470400&v=beta&t=Fhg-3SyKTd2Sn6WExTF5UDLEwPhPaDf5gHEK7NGajUo" alt="Muhammad Zeeshan Khan" style="width: 100%; border-radius: 50%;">
-<h1 align="center">Hi 👋, I'm Muhammad Zeeshan Khan</h1>
-<h3 align="center">Experienced web developer, dedicated YouTuber, and versatile freelancer with a passion for crafting innovative digital solutions. Specializing in frontend and backend development, I create engaging tutorials on YouTube and deliver tailored web solutions for clients worldwide. Adept at leveraging cutting-edge technologies and fostering dynamic online communities.</h3>
+<h1 align="center">Hi 👋, I'm Vedant Dabhade</h1>
+<h3 align="center">I'm a recent graduate with a Bachelor's degree in Computer Engineering, having passed with First Class Distinction. I specialize in Data Structures and Algorithms (DSA) and web development. I'm passionate about creating full-stack projects and eager to leverage my skills in frontend and backend development to build innovative and efficient digital solutions. Looking forward to contributing to dynamic teams and developing impactful projects.</h3>
 
 <div style="margin-top: 3rem">
   <div style="flex: 1; ">
-    <p>🚀 I have over 2 years of experience in web development, working with technologies like JavaScript, React, Node.js, and more.</p>
-    <p>🎥 On my YouTube channel, I share in-depth tutorials, coding tips, and project walkthroughs to help others learn and grow.</p>
-    <p>🌐 As a freelancer, I collaborate with clients from various industries, delivering high-quality and custom web solutions.</p>
-    <p>📈 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.</p>
+    
+Memory updated
+Here’s a revised version incorporating the new details:
+<p>🔭 I am honing my development and Web Developmentskills, currently focusing on ReactJs/NodeJs to enhance my expertise.</p>
+<p>🌱 I am actively solving Data Structures and Algorithms (DSA) problems to sharpen my problem-solving skills.</p>
+<p>👯 I’m eager to collaborate on web development projects and contribute to innovative solutions.</p>
+<p>💬 Feel free to ask me about web development and web technologies—I’m always happy to share insights and discuss ideas.</p>
+<p>📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedantdabhade14@gmail.com)](mailto:vedantdabhade14@gmail.com)</p>
+<p>⚡ Fun fact: I love going to the gym!</p>
   </div>
 </div>
 
