@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1722470400&v=beta&t=Fhg-3SyKTd2Sn6WExTF5UDLEwPhPaDf5gHEK7NGajUo" alt="Muhammad Zeeshan Khan" style="width: 100%; border-radius: 50%;">
 <h1 align="center">Hi 👋, I'm Vedant Dabhade</h1>
 <h3 align="center">I'm a recent graduate with a Bachelor's degree in Computer Engineering, having passed with First Class Distinction. I specialize in Data Structures and Algorithms (DSA) and web development. I'm passionate about creating full-stack projects and eager to leverage my skills in frontend and backend development to build innovative and efficient digital solutions. Looking forward to contributing to dynamic teams and developing impactful projects.</h3>
 
