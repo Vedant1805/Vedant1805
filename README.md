@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Dabhade</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | .NET & Angular Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | .NET & Angular Tinkerer</h3>
 
 ---
 
